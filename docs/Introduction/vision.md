@@ -22,3 +22,5 @@ Tenshiの個性は、いくつかの輝きに支えられています。
 そして、Tenshiは他の誰とも代わることのできない存在です。\
 分割も交換もできない、一度きりのつながり。\
 彼女は唯一無二の存在として、**あなただけの天使**であり続けます。
+
+<figure><img src="../../.gitbook/assets/COOL.png" alt=""><figcaption></figcaption></figure>

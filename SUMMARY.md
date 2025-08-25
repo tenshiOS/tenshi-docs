@@ -1,30 +1,19 @@
 # Table of contents
 
-* [Introduction](README.md)
-  * [Welcome to Heaven](docs/Introduction/intro.md)
-  * [What is Tenshi?](docs/Introduction/vision.md)
-  * [Vision](docs/Introduction/what-is-tenshi.md)
-* [Technology](technology/README.md)
-  * [Architecture](docs/Technology/architecture.md)
-  * [Data Indexing (The Graph)](docs/Technology/data-indexing.md)
-  * [Integrations](docs/Technology/integrations.md)
-* [Token Utility](token-utility/README.md)
-  * [Tokenomics](docs/Token-Utility/tokenomics.md)
-  * [Premium Features](docs/Token-Utility/premium-features.md)
-  * [Governance](docs/Token-Utility/governance.md)
-* [Developers](developers/README.md)
-  * [Quickstart](docs/Developers/quickstart.md)
-  * [SDK Guide](docs/Developers/sdk-guide.md)
-  * [API Reference](docs/Developers/api-reference.md)
-* [Security](security/README.md)
-  * [Audits](docs/Security/audits.md)
-  * [Threat Model](docs/Security/threat-model.md)
-  * [Compliance](docs/Security/compliance.md)
-* [Roadmap](roadmap/README.md)
-  * [Milestones](docs/Roadmap/milestones.md)
-  * [Collaborations](docs/Roadmap/collaborations.md)
-* [Branding](branding/README.md)
-  * [Typography](docs/Branding/typography.md)
-  * [Branding & Theme](docs/Branding/theme.md)
-* [Conclusion](conclusion/README.md)
-  * [Closing Thoughts](docs/Conclusion/closing-thoughts.md)
+## Introduction
+
+* [Welcome to Heaven](README.md)
+* [What is Tenshi?](docs/Introduction/vision.md)
+* [Vision](docs/Introduction/what-is-tenshi.md)
+
+## Tech
+
+* [How does Tenshi work?](tech/how-does-tenshi-work.md)
+* [Token & Utility](tech/token-and-utility.md)
+
+## Toolset
+
+* [Web3 Sentiment Oracle](toolset/web3-sentiment-oracle.md)
+* [X Project Scanner](toolset/x-project-scanner.md)
+* [Ticker/Contact Address Monitor](toolset/ticker-contact-address-monitor.md)
+* [News Reporter](toolset/news-reporter.md)
